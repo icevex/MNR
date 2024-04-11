@@ -1,4 +1,4 @@
-# MNR
+# Modern Nuclear Reactor
 
 This is a private repository that only developers should have access to.
 
